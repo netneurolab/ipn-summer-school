@@ -40,7 +40,7 @@ Also, it is recommended you create a [GitHub account](https://github.com/signup)
 
 ### Python
 
-While many of the tutorials will use Python, we intend to use [Google Colab]() notebooks for the majority of these demonstrations which means *you shouldn't need to install anything locally*. 
+While many of the tutorials will use Python, we intend to use [Google Colab](https://colab.research.google.com/) notebooks for the majority of these demonstrations which means *you shouldn't need to install anything locally*. 
 However, if you would prefer to run everything on your local computer you will need to install Python and all the required Python dependencies.
 
 #### Miniconda
@@ -69,5 +69,5 @@ pip install -r requirements.txt
 
 ## Questions? Comments? Concerns?
 
-If you've made a GitHub account (see [Installation](Installation)), you can [open an issue](https://github.com/netneurolab/ipn-summer-school/issues/new) on this repository and one of the instructors will get back to you asap!
+If you've made a GitHub account (see [Installation](#installation)), you can [open an issue](https://github.com/netneurolab/ipn-summer-school/issues/new) on this repository and one of the instructors will get back to you asap!
 If you would prefer to discuss something privately you can e-mail the course advisor ([B Misic](https://netneurolab.github.io/team/)) directly.
