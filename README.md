@@ -17,7 +17,7 @@ Date | Time | Topic | Instructor
 29 June | 13-15h | Machine learning | E Suarez
 30 June | 10-12h | Graph theory | V Bazinet
 30 June | 13-15h | Time series analyis | G Shafiei
-1 July | &mdash; | Happy Canada Day! :tada: | &mdash;
+1 July | &mdash; | Happy Canada Day! :canada: :maple_leaf: | &mdash;
 2 July | 10-12h | Dynamical systems | E Suarez
 2 July | 13-15h | Contextualizing results | J Hansen
 
@@ -40,7 +40,7 @@ Also, it is recommended you create a [GitHub account](https://github.com/signup)
 
 ### Python
 
-While many of the tutorials will use Python, we intend to use [Google Colab](https://colab.research.google.com/) notebooks for the majority of these demonstrations which means *you shouldn't need to install anything locally*. 
+While many of the tutorials will use Python, we intend to use [Google Colab](https://colab.research.google.com/) notebooks for the majority of these demonstrations which means *you shouldn't need to install anything locally*.
 However, if you would prefer to run everything on your local computer you will need to install Python and all the required Python dependencies.
 
 #### Miniconda
