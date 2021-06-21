@@ -14,10 +14,6 @@ umap-learn
 abagen
 netneurotools
 pybids
-pathlibs
-json
-os
-contextlib
 requests
 git+https://github.com/neurosynth/neurosynth
 git+https://github.com/aestrivex/bctpy.git#egg=bctpy
