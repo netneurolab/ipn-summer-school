@@ -1,0 +1,17 @@
+cookiecutter
+ipykernel
+ipython
+jupyter
+matplotlib
+nibabel
+nilearn
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+umap-learn
+abagen
+netneurotools
+pybids
+git+https://github.com/aestrivex/bctpy.git#egg=bctpy

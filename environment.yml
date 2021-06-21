@@ -1,0 +1,25 @@
+name: nnlabsummer
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python>=3.8
+    - cookiecutter
+    - ipykernel
+    - ipython
+    - jupyter
+    - matplotlib
+    - nibabel
+    - nilearn
+    - numpy
+    - pandas
+    - pip
+    - scikit-learn
+    - scipy
+    - seaborn
+    - umap-learn
+    - pip:
+        - abagen
+        - netneurotools
+        - pybids
+        - git+https://github.com/aestrivex/bctpy.git#egg=bctpy
