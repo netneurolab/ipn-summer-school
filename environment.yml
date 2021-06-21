@@ -18,8 +18,10 @@ dependencies:
     - scipy
     - seaborn
     - umap-learn
+    - requests
     - pip:
         - abagen
         - netneurotools
         - pybids
         - git+https://github.com/aestrivex/bctpy.git#egg=bctpy
+        - git+https://github.com/neurosynth/neurosynth.git
