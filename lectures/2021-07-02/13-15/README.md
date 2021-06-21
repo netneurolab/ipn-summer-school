@@ -2,7 +2,7 @@ Welcome to the last lecture: Contextualizing Results!
 
 I have compiled a list of resources (papers, handy GitHub repos, open-source data repos) that I reference during my lecture, in case you'd like to explore certain topics further.
 I don't expect you to have read or familiarized yourself with any of these resources prior to the lecture.
-The bullet points indicate the the context from which I introduced (or briefly referenced) the paper/repo/dataset.
+The bullet points indicate the context from which I introduced (or briefly referenced) the paper/repo/dataset.
 
 # Resources
 
