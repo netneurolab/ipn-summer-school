@@ -8,18 +8,18 @@ It's liable to be modified / changed as the course progresses, so be sure to che
 
 ## Schedule
 
-Date | Time | Topic | Instructor
---- | --- | --- | ---
-28 June | 9-10h | Analytics for neuroscience | B Misic
-28 June | 10-12h | Data science | R Markello
-28 June | 13-15h | Dimensionality reduction | Z-Q Liu
-29 June | 10-12h | Multivariate associative techniques | B Misic
-29 June | 13-15h | Machine learning | E Suarez
-30 June | 10-12h | Graph theory | V Bazinet
-30 June | 13-15h | Time series analyis | G Shafiei
-1 July | &mdash; | Happy Canada Day! :canada: :maple_leaf: | &mdash;
-2 July | 10-12h | Dynamical systems | E Suarez
-2 July | 13-15h | Contextualizing results | J Hansen
+Date | Time | Topic | Instructor | Materials
+--- | --- | --- | --- | ---
+28 June | 9-10h | Analytics for neuroscience | B Misic | [Link](./lectures/2021-06-28/09-10)
+28 June | 10-12h | Data science | R Markello | [Link](./lectures/2021-06-28/10-12)
+28 June | 13-15h | Dimensionality reduction | Z-Q Liu | [Link](./lectures/2021-06-28/13-15)
+29 June | 10-12h | Multivariate associative techniques | B Misic | [Link](./lectures/2021-06-29/10-12)
+29 June | 13-15h | Machine learning | E Suarez | [Link](./lectures/2021-06-29/13-15)
+30 June | 10-12h | Graph theory | V Bazinet | [Link](./lectures/2021-06-30/10-12)
+30 June | 13-15h | Time series analyis | G Shafiei | [Link](./lectures/2021-06-30/13-15)
+1 July | &mdash; | Happy Canada Day! :canada: :maple_leaf: | &mdash; | &mdash;
+2 July | 10-12h | Dynamical systems | E Suarez | [Link](./lectures/2021-07-02/10-12)
+2 July | 13-15h | Contextualizing results | J Hansen | [Link](./lectures/2021-07-02/13-15)
 
 ## Background / assumptions
 
