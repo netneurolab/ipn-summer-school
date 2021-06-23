@@ -31,7 +31,7 @@ schaefer = fetch_atlas_schaefer_2018(n_rois=200)
 # this might take some time which is why we're running it early on
 expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
 ```
-- run [this]() script (this will also take some time)
+- run [this]() script (this will also take some time, approx 30 min)
 
 ## Using Python locally
 - click [here](https://drive.google.com/file/d/1huYhQz_KDZLTsy0e47-05jWWX71L2hFc/view?usp=sharing) to grab the file `schaefer200coords.npy` (brain region coordinates for the Schaefer 2018 200-node parcellation) and put it somewhere you can find it (to `np.load('schaefer200coords.npy')` later on)
@@ -54,7 +54,7 @@ schaefer = fetch_atlas_schaefer_2018(n_rois=200)
 # this might take some time which is why we're running it early on
 expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
 ```
-- run [this](fetch_and_parcellate_neurosynth.py) script (this will take some time, approx 30 min)
+- run [this](fetch_and_parcellate_neurosynth.py) script (this will take some time, about 10 min on my local device but it will depend on your device)
 
 And that's it!
 You should be good to go.
@@ -89,7 +89,7 @@ The bullet points indicate the context from which I introduced (or briefly refer
   - linking receptors and brain function
 - [Beliveau et al., 2017](https://www.jneurosci.org/content/37/1/120): *A high-resolution in vivo atlas of the human brain's serotonin system*
   - includes PET serotonin receptor maps
-- [Nørgaard et al., 2021](https://www.sciencedirect.com/science/article/pii/S1053811921001555): *A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABA$_A$ receptors*
+- [Nørgaard et al., 2021](https://www.sciencedirect.com/science/article/pii/S1053811921001555): *A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABA<sub>A</sub> receptors*
   - includes available GABA density maps
 - [Hansen et al., 2021](https://github.com/netneurolab/hansen_genescognition/blob/master/hansen2021nathumbehav.pdf): *Mapping gene transcription and neurocognition across human neocortex*
   - linking genes to cognition
