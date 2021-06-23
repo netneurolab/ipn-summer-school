@@ -8,7 +8,7 @@ You don't need to do this before the lecture, but if you'd like to, here's what 
 ## Using Google Collab
 - click [here](https://drive.google.com/file/d/1huYhQz_KDZLTsy0e47-05jWWX71L2hFc/view?usp=sharing) to grab the file `schaefer200coords.npy` (brain region coordinates for the Schaefer 2018 200-node parcellation) and put it in your own Google Drive. 
 - open a new collab notebook (just as you would open a new Google Doc)
-- copy and paste this chunk of code into a new cell and run it:
+- copy and paste the code block below and run it. Don't close your collab notebook! This will be the notebook you use throughout the demos.
 ```
 !pip install --upgrade numpy scipy matplotlib pandas
 !pip install git+https://github.com/netneurolab/netneurotools
