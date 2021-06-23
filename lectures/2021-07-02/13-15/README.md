@@ -54,7 +54,7 @@ schaefer = fetch_atlas_schaefer_2018(n_rois=200)
 # this might take some time which is why we're running it early on
 expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
 ```
-- run [this]() script (this will take some time)
+- run [this](fetch_and_parcellate_neurosynth.py) script (this will take some time, approx 30 min)
 
 And that's it!
 You should be good to go.
