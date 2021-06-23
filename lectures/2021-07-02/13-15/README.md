@@ -1,10 +1,70 @@
 Welcome to the last lecture: Contextualizing Results!
 
+# Set-up
+
+At the start of the lecture, I'll ask everyone to do a little set-up.
+You don't need to do this before the lecture, but if you'd like to, here's what we'll do.
+
+## Using Google Collab
+- click [here](https://drive.google.com/file/d/1huYhQz_KDZLTsy0e47-05jWWX71L2hFc/view?usp=sharing) to grab the file `schaefer200coords.npy` (brain region coordinates for the Schaefer 2018 200-node parcellation) and put it in your own Google Drive. 
+- open a new collab notebook (just as you would open a new Google Doc)
+- copy and paste this chunk of code into a new cell and run it:
+```
+!pip install --upgrade numpy scipy matplotlib pandas
+!pip install git+https://github.com/netneurolab/netneurotools
+!pip install git+https://github.com/neurosynth/neurosynth
+!pip install abagen
+
+import abagen
+from nilearn.datasets import fetch_atlas_schaefer_2018
+import pandas as pd
+import numpy as np
+from scipy.spatial.distance import squareform, pdist
+import matplotlib.pyplot as plt
+from scipy.stats import zscore, pearsonr
+
+# get atlas
+schaefer = fetch_atlas_schaefer_2018(n_rois=200)
+
+# get node x gene data for all 6 donors
+# return_donors=False for full concatenated node x gene matrix
+# this might take some time which is why we're running it early on
+expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
+```
+- run [this]() script (this will also take some time)
+
+## Using Python locally
+- click [here](https://drive.google.com/file/d/1huYhQz_KDZLTsy0e47-05jWWX71L2hFc/view?usp=sharing) to grab the file `schaefer200coords.npy` (brain region coordinates for the Schaefer 2018 200-node parcellation) and put it somewhere you can find it (to `np.load('schaefer200coords.npy')` later on)
+- make sure you've got all the dependencies as described [here](https://github.com/netneurolab/ipn-summer-school) under Installation > Python
+- copy and paste this block of code into your editor and run it:
+```
+import abagen
+from nilearn.datasets import fetch_atlas_schaefer_2018
+import pandas as pd
+import numpy as np
+from scipy.spatial.distance import squareform, pdist
+import matplotlib.pyplot as plt
+from scipy.stats import zscore, pearsonr
+
+# get atlas
+schaefer = fetch_atlas_schaefer_2018(n_rois=200)
+
+# get node x gene data for all 6 donors
+# return_donors=False for full concatenated node x gene matrix
+# this might take some time which is why we're running it early on
+expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
+```
+- run [this]() script (this will take some time)
+
+And that's it!
+You should be good to go.
+Again, you don't need to do this before lecture.
+
+# Resources
+
 I have compiled a list of resources (papers, handy GitHub repos, open-source data repos) that I reference during my lecture, in case you'd like to explore certain topics further.
 I don't expect you to have read or familiarized yourself with any of these resources prior to the lecture.
 The bullet points indicate the context from which I introduced (or briefly referenced) the paper/repo/dataset.
-
-# Resources
 
 ## Papers
 
