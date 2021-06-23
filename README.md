@@ -34,14 +34,16 @@ In order to get the best experience from this course it is recommended you insta
 
 1. [git](https://git-scm.com/downloads)
 1. Matlab (though you can opt to use [Matlab online](https://www.mathworks.com/academia/tah-portal/mcgill-university-30521249.html) if you would prefer not to install this locally)
+1. Python (you can install locally or use Google Colab)
 
 Also, it is recommended you create a [GitHub account](https://github.com/signup) if you do not already have one.
 (If you have one make sure you know your password!)
 
 ### Python
 
-While many of the tutorials will use Python, we intend to use [Google Colab](https://colab.research.google.com/) notebooks for the majority of these demonstrations which means *you shouldn't need to install anything locally*.
-However, if you would prefer to run everything on your local computer you will need to install Python and all the required Python dependencies.
+Many of the tutorials will use Python, we recommend having a local Python environment ready, with the required dependencies installed. Two common ways to install Python & the dependencies are detailed below. 
+
+However, we also make majority of these demonstrations compatible with [Google Colab](https://colab.research.google.com/) notebooks if you prefer running them on the cloud, so you wouldn't need to install anything locally (Google account required).
 
 #### Miniconda
 
