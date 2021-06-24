@@ -31,8 +31,8 @@ schaefer = fetch_atlas_schaefer_2018(n_rois=200)
 # this might take some time which is why we're running it early on
 expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
 ```
-- run [this]() script (this will also take some time, approx 30 min)
-- upload the downloaded output of `fetch_and_parcellate_neurosynth.ipyn` into your Google Drive
+- run [this](fetch_and_parcellate_neurosynth.ipyn) script (this will also take some time, approx 30 min)
+- upload the downloaded output of `fetch_and_parcellate_neurosynth.ipyn` (called `atl-schaefer2018_res-200_neurosynth.csv`) into your Google Drive
 
 ## Using Python locally
 - click [here](https://drive.google.com/file/d/1huYhQz_KDZLTsy0e47-05jWWX71L2hFc/view?usp=sharing) to grab the file `schaefer200coords.npy` (brain region coordinates for the Schaefer 2018 200-node parcellation) and put it somewhere you can find it (to `np.load('schaefer200coords.npy')` later on)
