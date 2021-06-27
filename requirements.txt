@@ -12,7 +12,7 @@ scipy
 seaborn
 umap-learn
 abagen
-netneurotools
+git+https://github.com/netneurolab/netneurotools
 pybids
 requests
 git+https://github.com/neurosynth/neurosynth
