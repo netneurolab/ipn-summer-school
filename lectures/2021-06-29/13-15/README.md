@@ -28,10 +28,6 @@
      ```
      
 You’re ready to go! 
-NOTE: the name machine-learning can be replaced by anything you want, hopefully a short and meaningful name that tells you what the environment is about.
+
+NOTE: the name **ipn_summer_school** can be replaced by anything you want, hopefully a short and meaningful name that tells you what the environment is about.
 This same environment will be used for the hands-on dynamical systems tutorial.
-
-
-You will need to have git installed on your local computer and a GitHub account in order to follow along with the demonstration!
-(Also, to use these principles in the future, it's recommended you have a basic Python installation with at least cookiecutter installed.
-Check the main README in the root of this repository for installation instructions!
