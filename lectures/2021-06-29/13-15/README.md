@@ -1,14 +1,14 @@
 # Welcome to intro to machine-learning for neuroscience (summer 2021)!
 
 
-# Requirements for the Machine-learning hands-on tutorial:
-## Using Google Collab
+## Requirements for the Machine-learning hands-on tutorial:
+# Using Google Collab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb)
 
 [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb?flush_cache=true)
 
-## Using Python locally
+# Using Python locally
 You can also run the Jupyter notebook locally in your own computer:
 
 1. Install  [Anaconda](https://www.anaconda.com/products/individual).
