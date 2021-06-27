@@ -1,8 +1,8 @@
 # Intro to Machine-Learning for neuroscience
 
 ## Requirements for the Machine-learning hands-on tutorial:
-1. Install Anaconda (https://www.anaconda.com/products/individual)
-2. Create a Conda virtual environment (https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands). Open the terminal and type:
+1. Install  [Anaconda](https://www.anaconda.com/products/individual).
+2. Create a [Conda virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands). To do so, open the terminal and type:
     
     ```
     conda create --name ipn_summer_school python=3.6 numpy scipy pandas scikit-learn nilearn seaborn matplotlib
