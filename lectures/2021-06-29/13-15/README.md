@@ -40,9 +40,9 @@ Alternatively, you can also run things locally in your own computer. This requir
 
  6. In the terminal, navigate to the directory where you placed the files:
  
- ```
- cd /path/to/directory
- ```
+     ```
+     cd /path/to/directory
+     ```
  
  7.  Open the Jupyter-notebook:
      ```
