@@ -13,9 +13,9 @@ If you do not want to install anything locally, you can use Google Collab to run
 Else, if you do not want to get your hands dirty, and just want to passively follow the demo, you can visualize the results by clicking [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb?flush_cache=true)
 
 ### Using Python locally
-Alternatively, you can also run the Jupyter notebook locally in your own computer:
+Alternatively, you can also run things locally in your own computer. This requires some extra installation steps:
 
-1. Install  [Anaconda](https://www.anaconda.com/products/individual).
+1. Install  [Anaconda](https://www.anaconda.com/products/individual)
 2. Create a [Conda virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands). To do so, open the terminal and type:
     
     ```
@@ -31,19 +31,20 @@ Alternatively, you can also run the Jupyter notebook locally in your own compute
     python -m ipykernel install --user --name=machine-learning
     ```
     
-4. Install Nilearn
+4. Install Nilearn:
     ```
     pip install nilearn
     ```
     
- 5. Download the **demo.ipynb**, **MAIN_BASC064_subsamp_features.npz** and **participants.tsv** files found in this repo, and place them into a new directory.
- 6. Navigate to the directory where you downloaded the files:
+ 5. Download the **demo.ipynb**, **MAIN_BASC064_subsamp_features.npz** and **participants.tsv** files found in this repo, and place them into a new directory in your local computer.
+
+ 6. In the terminal, navigate to the directory where you placed the files:
  
  ```
  cd /path/to/directory
  ```
  
- 8.  Open the Jupyter-notebook:
+ 7.  Open the Jupyter-notebook:
      ```
      jupyter-notebook
      ```
