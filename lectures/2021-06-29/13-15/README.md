@@ -1,4 +1,12 @@
-# Intro to Machine-Learning for neuroscience (summer 2021)
+# Welcome to intro to machine-learning for neuroscience (summer 2021)!
+
+You can find a draft version of demo notebook available. 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb)
+
+[![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb?flush_cache=true)
+
+
 
 ## Requirements for the Machine-learning hands-on tutorial:
 1. Install  [Anaconda](https://www.anaconda.com/products/individual).
