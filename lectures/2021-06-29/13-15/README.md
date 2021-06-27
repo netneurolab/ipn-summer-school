@@ -1,4 +1,4 @@
-# Welcome to intro to machine-learning for neuroscience (summer 2021)!
+# Welcome to intro to machine-learning for neuroscience!
 
 
 ## Requirements for the Machine-learning hands-on tutorial:
