@@ -1,4 +1,4 @@
-# Intro to Machine-Learning for neuroscience
+# Intro to Machine-Learning for neuroscience (summer 2021)
 
 ## Requirements for the Machine-learning hands-on tutorial:
 1. Install  [Anaconda](https://www.anaconda.com/products/individual).
