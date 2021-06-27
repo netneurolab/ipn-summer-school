@@ -1,10 +1,10 @@
 # Welcome to intro to machine-learning for neuroscience!
 
 
+## Resources:
+
+
 ## Hands-on tutorial requirements:
-
-
-
 ### Using Google Collab
 If you do not want to install anything you can use google collab to run the demo. All you will need is a Google account. Just click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb) to open the notebook. 
 
