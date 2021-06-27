@@ -44,11 +44,13 @@ Alternatively, you can also run things locally in your own computer. This requir
      cd /path/to/directory
      ```
  
- 7.  Open the Jupyter-notebook:
+ 7.  Open Jupyter-notebook by typing in the terminal:
+     
      ```
      jupyter-notebook
      ```
-     
+ 8. Click on the **demo.ipynb** file. 
+ 
 You’re ready to go! 
 
 NOTE: the name **ipn_summer_school** can be replaced by anything you want, hopefully a short and meaningful name that tells you what the environment is about.
