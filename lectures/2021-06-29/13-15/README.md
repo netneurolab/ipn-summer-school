@@ -1,7 +1,7 @@
 # Welcome to intro to machine-learning for neuroscience!
 
 
-## Resources:
+## * Resources:
 Here we have compiled some useful machine-learning resources: 
 
 ### Coding resources:
@@ -18,7 +18,7 @@ Here we have compiled some useful machine-learning resources:
 * [Josse et al., 2020](https://arxiv.org/abs/1902.06931): *On the consistency of supervised learning with missing values*
 *  ... more to come! Stay tune ;) 
 
-## Hands-on tutorial requirements:
+## * Hands-on tutorial requirements:
 ### Using Google Collab
 If you do not want to install anything locally, you can use Google Collab to run the demo. To do so you will need a Google account.
 1. Download the **MAIN_BASC064_subsamp_features.npz** and the **participants.tsv** files found in this repo, and place them into your main Google Drive folder. That's it, you're all set!
