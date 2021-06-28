@@ -55,13 +55,13 @@ You can follow the tutorial with Google Colab. The notebook is available here: [
 
 #### Option B: Jupyter Notebook
 
-You can follow the tutorial using the Jupyter notebook available [here]().
+You can follow the tutorial using the Jupyter notebook available [here](https://github.com/VinceBaz/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial_local.ipynb).
 
 ##### Requirements/Steps:
 
 1. You will need Python and a local Python environment.
 
-if you are unfamiliar with Python, I highly recommend installing [Anaconda](https://www.anaconda.com/). The basic installation package will give you a large number of tools that are useful for data science. Anaconda should create for you a python environment will a large number of useful python packages already installed. Among them are [Jupyter Notebook](https://jupyter.org/index.html) which will be used to visualize the Notebook, and [Spyder](https://www.spyder-ide.org/) which is a nice IDE that I recommend.
+    If you are unfamiliar with Python, I highly recommend installing [Anaconda](https://www.anaconda.com/). The basic installation package will give you a large number of tools that are useful for data science. Anaconda should create for you a python environment will a large number of useful python packages already installed. Among them are [Jupyter Notebook](https://jupyter.org/index.html) which will be used to visualize the Notebook, and [Spyder](https://www.spyder-ide.org/) which is a nice IDE that I recommend.
 
 If you are using Windows and downloaded Anacondqa, you should now have access to an "Anaconda Prompt" (via the Start Menu). The next steps (i.e. installing the python packages that we will use) should be done using the Anaconda Prompt (and not the normal cmd prompt).
 
