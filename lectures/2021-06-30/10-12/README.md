@@ -26,7 +26,7 @@ Those books should be freely available online via the [McGill Library](https://w
 
 ## The lecture:
 
-The lecture will consist in a theory section and a tutorial section
+The lecture will consist in a theory section and a tutorial section.
 
 ### Theory:
 The content covered in this lecture will be:
@@ -40,9 +40,9 @@ The content covered in this lecture will be:
 ### Tutorial:
 For the tutorial section of the lecture, you will have two different options:
 
-#### Google Colab Notebook
+#### Option A: Google Colab Notebook
 
-You can follow the tutorial with Google Colab. The notebook is available here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial_colab.ipynb)
+You can follow the tutorial with Google Colab. The notebook is available here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vincebaz/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial_colab.ipynb)
 
 ##### Requirements/Steps:
 
@@ -53,7 +53,7 @@ You can follow the tutorial with Google Colab. The notebook is available here: [
     * SC.npy
 3. From your Google Drive home directory, you must store these files in a a folder named "IPN Summer School".
 
-#### Jupyter Notebook
+#### Option B: Jupyter Notebook
 
 You can follow the tutorial using the Jupyter notebook available [here]().
 
