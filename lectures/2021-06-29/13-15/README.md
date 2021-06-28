@@ -11,7 +11,9 @@ Here we have compiled some useful machine-learning resources:
 
 ### Papers:
 * [Domingos, 2012](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf): *A Few Useful Things To Know About Machine Learning*
+* [Bzdok et al, 2018](https://www.biorxiv.org/content/10.1101/327437v1): *The Cost of Untracked Diversity in Brain-Imaging Prediction*
 * [Bouthilier et al.,2021](https://hal.archives-ouvertes.fr/hal-03177159/file/main.pdf): *Accounting for variance in machine learning benchmarks*
+* [Benkarim et al., 2021](https://www.biorxiv.org/content/10.1101/2021.06.16.448764v1): *The Cost of Untracked Diversity in Brain-Imaging Prediction*
 * [Vu et al., 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5815449/pdf/zns1601.pdf): *A Shared Vision for Machine Learning in Neuroscience*
 * [Josse et al., 2020](https://arxiv.org/abs/1902.06931): *On the consistency of supervised learning with missing values*
 *  ... more to come! Stay tune ;) 
