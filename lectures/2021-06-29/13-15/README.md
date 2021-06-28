@@ -5,7 +5,7 @@
 Here we have compiled some useful machine-learning resources: 
 
 ### Coding resources:
-* [Scikit-learn](https://scikit-learn.org/stable/): a VERY complete machine-learning Python library with amazing documentation and examples. 
+* [Scikit-learn](https://scikit-learn.org/stable/): a VERY complete machine learning Python library with amazing documentation and examples. 
 * [Scipy](https://docs.scipy.org/doc/scipy/tutorial/index.html): an also VERY complete math Python toolbox. Includes functions for doing statistics, optimization, signal processing, linear algebra, image processing, etc.
 * [Nilearn](https://nilearn.github.io/#): a Python library specialized to deal with Neuroimaging data! 
 
