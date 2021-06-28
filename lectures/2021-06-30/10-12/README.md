@@ -61,9 +61,9 @@ You can follow the tutorial using the Jupyter notebook available [here](https://
 
 1. You will need Python and a local Python environment.
 
-    If you are unfamiliar with Python, I highly recommend installing [Anaconda](https://www.anaconda.com/). The basic installation package will give you a large number of tools that are useful for data science. Anaconda should create for you a python environment will a large number of useful python packages already installed. Among them are [Jupyter Notebook](https://jupyter.org/index.html) which will be used to visualize the Notebook, and [Spyder](https://www.spyder-ide.org/) which is a nice IDE that I recommend.
+    If you are unfamiliar with Python, I highly recommend installing [Anaconda](https://www.anaconda.com/). The basic installation package will give you a large number of tools that are useful for data science. Anaconda should create for you a python environment with a large number of useful python packages already installed. Among them are [Jupyter Notebook](https://jupyter.org/index.html) which will be used to visualize the Notebook, and [Spyder](https://www.spyder-ide.org/) which is a nice IDE that I recommend.
 
-If you are using Windows and downloaded Anacondqa, you should now have access to an "Anaconda Prompt" (via the Start Menu). The next steps (i.e. installing the python packages that we will use) should be done using the Anaconda Prompt (and not the normal cmd prompt).
+    If you are using Windows and downloaded Anaconda, you should now have access to an "Anaconda Prompt" (via the Start Menu). The next steps (i.e. installing the python packages that we will use) should be done using the Anaconda Prompt (and not the normal cmd prompt).
 
 2. If you chose to use the (base) conda environement, you can immediately skip to Step 3. Alternatively, you might want to create an additional Conda virtual environement for this tutorial. To do so, please follow  [the steps presented by Estefany for her machine learning course](https://github.com/netneurolab/ipn-summer-school/tree/main/lectures/2021-06-29/13-15).
 
