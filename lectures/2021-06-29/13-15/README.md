@@ -1,4 +1,4 @@
-# Welcome to Intro to Machine Learning for neuroscience!
+# Welcome to *Intro to Machine Learning* for neuroscience!
 
 
 ## * Resources:
