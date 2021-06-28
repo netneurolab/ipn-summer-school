@@ -11,6 +11,7 @@ Here we have compiled some useful machine-learning resources:
 
 ### Papers:
 * [Domingos, 2012](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf): *A Few Useful Things To Know About Machine Learning*
+* [Bzdok et al., 2018](https://www.nature.com/articles/nmeth.4642): *Statistics versus machine learning*
 * [Bzdok et al, 2018](https://www.biorxiv.org/content/10.1101/327437v1): *Prediction and inference diverge in biomedicine: Simulations and real-world data*
 * [Bouthilier et al.,2021](https://hal.archives-ouvertes.fr/hal-03177159/file/main.pdf): *Accounting for variance in machine learning benchmarks*
 * [Benkarim et al., 2021](https://www.biorxiv.org/content/10.1101/2021.06.16.448764v1): *The Cost of Untracked Diversity in Brain-Imaging Prediction*
