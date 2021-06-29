@@ -31,7 +31,7 @@ schaefer = fetch_atlas_schaefer_2018(n_rois=200)
 # this might take some time which is why we're running it early on
 expression = abagen.get_expression_data(schaefer['maps'], return_donors=True)
 ```
-- run [this](fetch_and_parcellate_neurosynth.ipyn) script (this will also take some time, approx 30 min)
+- run [this](fetch_and_parcellate_neurosynth.ipynb) script (this will also take some time, approx 30 min)
 - upload the downloaded output of `fetch_and_parcellate_neurosynth.ipyn` (called `atl-schaefer2018_res-200_neurosynth.csv`) into your Google Drive
 
 ## Using Python locally
