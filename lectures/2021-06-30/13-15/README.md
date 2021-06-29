@@ -4,7 +4,7 @@ In this session we will learn about basics of time series analysis, forecasting,
 
 ## Requirements:
 ### Using Google Colab
-We will use Google Colab to run the demo during the practical session. You can also run the demo locally if you have Python and jupyter-notebook installed locally.
+We will use Google Colab to run the demo during the practical session. You can also run the demo locally if you have Python and jupyter-notebook installed.
 
 If you want to use Google Colab to run the demo:
 
@@ -14,7 +14,7 @@ If you want to use Google Colab to run the demo:
 
 | Title        | Run on Google Colab | View using Nbviewer |
 | ------------- |:-------------:|:-----:|
-| Demo 1: Forecasting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/13-15/demo1_ARmodel.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/13-15/demo1_ARmodel.ipynb?flush_cache=false) |
+| Demo 1: Forecasting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/13-15/demo1_ARmodel.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/13-15/demo1_ARmodel.ipynb?flush_cache=true) |
 | Demo 2: Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/13-15/demo2_seizureClassification.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-30/13-15/demo2_seizureClassification.ipynb?flush_cache=false) |
 
 ## Coding resources:
