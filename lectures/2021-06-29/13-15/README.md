@@ -25,7 +25,7 @@ If you do not want to install anything locally, you can use Google Collab to run
 1. Download the **MAIN_BASC064_subsamp_features.npz** and the **participants.tsv** files found in this repo, and place them into your main Google Drive folder. That's it, you're all set!
 2. To open and run the notebook just click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb)
 
-Else, if you do not want to get your hands dirty, and just want to passively follow the demo, you can visualize the results by clicking [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynb?flush_cache=false)
+Else, if you do not want to get your hands dirty, and just want to passively follow the demo, you can visualize the results by clicking [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-06-29/13-15/demo.ipynbflush_cache=false)
 
 ### Using Python locally
 Alternatively, you can also run things locally in your own computer. This requires some extra installation steps:
