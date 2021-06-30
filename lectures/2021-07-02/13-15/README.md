@@ -133,7 +133,7 @@ The bullet points indicate the context from which I introduced (or briefly refer
 - [GeneCategoryEnrichmentAnalysis](https://github.com/benfulcher/GeneCategoryEnrichmentAnalysis): Matlab package for finding gene set enrichments using spatial null models
 
 
-## Open-source data sources
+## Open-source datasets
 
 - [The Allen Human Brain Atlas](https://human.brain-map.org/): microarray gene expression data in the human brain
 - [BrainSpan](https://www.brainspan.org/): microarray gene expression data in the human brain across the lifespan (from fetus to adult)
