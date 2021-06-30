@@ -42,7 +42,7 @@ For the tutorial section of the lecture, you will have two different options:
 
 #### Option A: Google Colab Notebook
 
-You can follow the tutorial with Google Colab. The notebook is available here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vincebaz/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial_colab.ipynb)
+You can follow the tutorial with Google Colab. The notebook is available here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vincebaz/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial.ipynb)
 
 ##### Requirements/Steps:
 
@@ -55,7 +55,7 @@ You can follow the tutorial with Google Colab. The notebook is available here: [
 
 #### Option B: Jupyter Notebook
 
-You can follow the tutorial using the Jupyter notebook available [here](https://github.com/VinceBaz/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial_local.ipynb).
+You can follow the tutorial using the Jupyter notebook available [here](https://github.com/VinceBaz/ipn-summer-school/blob/main/lectures/2021-06-30/10-12/graph_theory_tutorial.ipynb).
 
 ##### Requirements/Steps:
 
