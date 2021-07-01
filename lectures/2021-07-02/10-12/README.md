@@ -20,10 +20,6 @@ If you do not want to install anything locally, you can use Google Collab to run
 
 * Demo4: The Morris-Lecar model + Bifurcation Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo4.ipynb)
 
-
-
-Else, if you do not want to get your hands dirty, and just want to passively follow the demo, you can visualize the results by clicking [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo.ipynb?flush_cache=false)
-
 ### Using Python locally
 Alternatively, you can also run things locally in your own computer. This requires some extra installation steps:
 
@@ -43,7 +39,7 @@ Alternatively, you can also run things locally in your own computer. This requir
     python -m ipykernel install --user --name=machine-learning
     ```
     
- 5. Download the **demo.ipynb**, **MAIN_BASC064_subsamp_features.npz** and **participants.tsv** files found in this repo, and place them into a new directory in your local computer.
+ 5. Download the **demoX.ipynb** files found in this repo, and place them into a new directory in your local computer.
 
  6. In the terminal, navigate to the directory where you placed the files:
  
@@ -56,7 +52,7 @@ Alternatively, you can also run things locally in your own computer. This requir
      ```
      jupyter-notebook
      ```
- 8. Click on the **demo.ipynb** file. 
+ 8. Click on the **demoX.ipynb** file. 
  
 You’re ready to go! 
 
