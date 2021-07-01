@@ -12,13 +12,13 @@ Here we've compiled a set of interesting papers at the intersection of dynamical
 ## * Hands-on tutorial requirements:
 ### Using Google Collab
 If you do not want to install anything locally, you can use Google Collab to run the demos. To do so you will need a Google account. To open and run a notebook just click on the corresponding link: 
-* Demo1: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo1.ipynb)
+* Demo1: A simple 3D Linear Dynamical System: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo1.ipynb)
 
-* Demo2: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo2.ipynb)
+* Demo2: Stability of 2D Linear Systems: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo2.ipynb)
 
-* Demo3: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo3.ipynb)
+* Demo3: Stability of Nonlinear Systems: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo3.ipynb)
 
-* Demo4: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo4.ipynb)
+* Demo4: The Morris-Lecar model + Bifurcation Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo4.ipynb)
 
 
 
