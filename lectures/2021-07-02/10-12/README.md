@@ -11,7 +11,17 @@ Here we've compiled a set of interesting papers at the intersection of dynamical
 
 ## * Hands-on tutorial requirements:
 ### Using Google Collab
-If you do not want to install anything locally, you can use Google Collab to run the demo. To do so you will need a Google account. To open and run the notebook just click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo.ipynb)
+If you do not want to install anything locally, you can use Google Collab to run the demos. To do so you will need a Google account. To open and run a notebook just click on the corresponding link: 
+* Demo1: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo1.ipynb)
+
+* Demo2: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo2.ipynb)
+
+* Demo3: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo3.ipynb)
+
+* Demo4: Simple Linear Dynamical System 3D: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo4.ipynb)
+
+
+
 Else, if you do not want to get your hands dirty, and just want to passively follow the demo, you can visualize the results by clicking [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/netneurolab/ipn-summer-school/blob/main/lectures/2021-07-02/10-12/demo.ipynb?flush_cache=false)
 
 ### Using Python locally
