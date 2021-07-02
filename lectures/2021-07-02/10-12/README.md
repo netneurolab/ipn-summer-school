@@ -5,8 +5,10 @@
 
 Here we've compiled a set of interesting papers at the intersection of dynamical systems and neuroscience: 
 
-* [](): **
-* 
+* [Vyas et al., 2020](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-092619-094115): *Computation Through Neural Population Dynamics*
+*
+
+Bzdok et al., 2018
 
 
 ## * Hands-on tutorial requirements:
