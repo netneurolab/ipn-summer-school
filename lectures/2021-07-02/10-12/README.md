@@ -5,11 +5,24 @@
 
 Here we've compiled a set of interesting papers at the intersection of dynamical systems and neuroscience: 
 
-* [Vyas et al., 2020](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-092619-094115): *Computation Through Neural Population Dynamics*
-*
+Computational Neuroscience:
+* [Rabinovich et al., 2006](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.78.1213): *Dynamical principles in Neuroscience*
+* [Rabinovich et al., 2006](https://mitpress.mit.edu/books/principles-brain-dynamics): *Principles of Brain Dynamics: Global State Interactions (Computational Neuroscience Series)* - BOOK
+* [Cocchi et al., 2017](https://www.sciencedirect.com/science/article/pii/S0301008216301630): *Criticality in the brain: A synthesis of neurobiology, models and cognition*
+* [Buonomano and Maass, 2009](https://www.nature.com/articles/nrn2558): *State-dependent computations: spatiotemporal processing in cortical networks*
+* [Sussillo, 2014](http://www.rctn.org/vs265/sussillo-dynamical-systems-curropin.pdf): *Neural circuits as computational dynamical systems*
+* [Vyas, et al., 2020](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-092619-094115): *Computation Through Neural Population Dynamics* 
+* [Sussillo and Barak, 2013](https://web.stanford.edu/class/cs379c/archive/2016/calendar_invited_talks/articles/SussilloandBarakNC-13.pdf): *Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks*
+* [Mastrogiuseppe and Ostojic, 2018](https://www.sciencedirect.com/science/article/pii/S0896627318305439): *Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks*
 
-Bzdok et al., 2018
-
+Some researches dedicated to the study of brain dynamics are:
+* Mikhail I. Rabinovich
+* Pablo Varona
+* Gustavo Decco
+* Michael Breakspear
+* Victor Jirsa
+* David Sussillo
+* and these are just a few of them!!!
 
 ## * Hands-on tutorial requirements:
 ### Using Google Collab
