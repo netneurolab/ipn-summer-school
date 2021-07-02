@@ -18,12 +18,13 @@ Computational Neuroscience:
 * [Mastrogiuseppe and Ostojic, 2018](https://www.sciencedirect.com/science/article/pii/S0896627318305439): *Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks*
 
 Some researches dedicated to the study of brain dynamics are:
-* [Mikhail I. Rabinovich](https://scholar.google.com/citations?user=zplPdX4AAAAJ&hl=en)
-* [Pablo Varona](https://scholar.google.ca/citations?user=JrMlehIAAAAJ&hl=en)
-* [Gustavo Decco](https://scholar.google.es/citations?user=xMh3uN8AAAAJ&hl=en)
-* [Michael Breakspear](https://scholar.google.com/citations?user=hrx691cAAAAJ&hl=en)
-* [Viktor Jirsa](https://scholar.google.ca/citations?user=0ZVdLpMAAAAJ&hl=en)
-* [David Sussillo](https://scholar.google.com/citations?user=ebBgMSkAAAAJ&hl=en)
+* [Mikhail I. Rabinovich](https://scholar.google.com/citations?user=zplPdX4AAAAJ&hl=en) - Theoretical/Computational neuroscience
+* [Pablo Varona](https://scholar.google.ca/citations?user=JrMlehIAAAAJ&hl=en)- Theoretical/Computational neuroscience
+* [Gustavo Decco](https://scholar.google.es/citations?user=xMh3uN8AAAAJ&hl=en)- Theoretical/Computational neuroscience
+* [Michael Breakspear](https://scholar.google.com/citations?user=hrx691cAAAAJ&hl=en)- Theoretical/Computational neuroscience
+* [Viktor Jirsa](https://scholar.google.ca/citations?user=0ZVdLpMAAAAJ&hl=en)- Theoretical/Computational neuroscience
+* [David Sussillo](https://scholar.google.com/citations?user=ebBgMSkAAAAJ&hl=en)- Computational neuroscience + AI (recurrent neural networks)
+* [Steven Strogatz](http://www.stevenstrogatz.com) - General nonlinear dynamics
 
 And these are just a few of them!!!
 
