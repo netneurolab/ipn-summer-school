@@ -24,7 +24,7 @@ Some researches dedicated to the study of brain dynamics are:
 * [Michael Breakspear](https://scholar.google.com/citations?user=hrx691cAAAAJ&hl=en)- Theoretical/Computational neuroscience
 * [Viktor Jirsa](https://scholar.google.ca/citations?user=0ZVdLpMAAAAJ&hl=en)- Theoretical/Computational neuroscience
 * [David Sussillo](https://scholar.google.com/citations?user=ebBgMSkAAAAJ&hl=en)- Computational neuroscience + AI (recurrent neural networks)
-* [Steven Strogatz](http://www.stevenstrogatz.com) - General nonlinear dynamics
+* [Steven Strogatz](http://www.stevenstrogatz.com) - Nonlinear dynamics and complex systems
 
 And these are just a few of them!!!
 
