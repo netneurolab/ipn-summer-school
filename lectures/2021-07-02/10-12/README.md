@@ -7,22 +7,25 @@ Here we've compiled a set of interesting papers at the intersection of dynamical
 
 Computational Neuroscience:
 * [Rabinovich et al., 2006](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.78.1213): *Dynamical principles in Neuroscience*
-* [Rabinovich et al., 2006](https://mitpress.mit.edu/books/principles-brain-dynamics): *Principles of Brain Dynamics: Global State Interactions (Computational Neuroscience Series)* - BOOK
+* [Rabinovich et al., 2012](https://mitpress.mit.edu/books/principles-brain-dynamics): *Principles of Brain Dynamics: Global State Interactions (Computational Neuroscience Series)* - BOOK
+* [Rabinovich et al., 2012](https://www.sciencedirect.com/science/article/pii/S1571064511001448): *Information flow dynamics in the brain*
 * [Cocchi et al., 2017](https://www.sciencedirect.com/science/article/pii/S0301008216301630): *Criticality in the brain: A synthesis of neurobiology, models and cognition*
 * [Buonomano and Maass, 2009](https://www.nature.com/articles/nrn2558): *State-dependent computations: spatiotemporal processing in cortical networks*
+* [Beggs, 2007](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2007.2092): *The criticality hypothesis: how local cortical networks might optimize information processing*
 * [Sussillo, 2014](http://www.rctn.org/vs265/sussillo-dynamical-systems-curropin.pdf): *Neural circuits as computational dynamical systems*
 * [Vyas, et al., 2020](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-092619-094115): *Computation Through Neural Population Dynamics* 
 * [Sussillo and Barak, 2013](https://web.stanford.edu/class/cs379c/archive/2016/calendar_invited_talks/articles/SussilloandBarakNC-13.pdf): *Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks*
 * [Mastrogiuseppe and Ostojic, 2018](https://www.sciencedirect.com/science/article/pii/S0896627318305439): *Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks*
 
 Some researches dedicated to the study of brain dynamics are:
-* Mikhail I. Rabinovich
-* Pablo Varona
-* Gustavo Decco
-* Michael Breakspear
-* Victor Jirsa
-* David Sussillo
-* and these are just a few of them!!!
+* [Mikhail I. Rabinovich](https://scholar.google.com/citations?user=zplPdX4AAAAJ&hl=en)
+* [Pablo Varona](https://scholar.google.ca/citations?user=JrMlehIAAAAJ&hl=en)
+* [Gustavo Decco](https://scholar.google.es/citations?user=xMh3uN8AAAAJ&hl=en)
+* [Michael Breakspear](https://scholar.google.com/citations?user=hrx691cAAAAJ&hl=en)
+* [Viktor Jirsa](https://scholar.google.ca/citations?user=0ZVdLpMAAAAJ&hl=en)
+* [David Sussillo](https://scholar.google.com/citations?user=ebBgMSkAAAAJ&hl=en)
+
+And these are just a few of them!!!
 
 ## * Hands-on tutorial requirements:
 ### Using Google Collab
